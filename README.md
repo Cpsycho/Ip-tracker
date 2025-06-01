@@ -25,3 +25,7 @@ A lightweight and fast Termux-based tool to **lookup IP address information** an
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install git curl jq nmap -y
+git clone https://github.com/Cpsycho/Ip-tracker.git
+cd Ip-tracker
+chmod +x ip.sh
+bash ip.sh
