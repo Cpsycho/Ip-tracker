@@ -10,9 +10,6 @@ A lightweight and fast Termux-based tool to **lookup IP address information** an
 
 - ✅ Real-time IP Geolocation (using [ipinfo.io](https://ipinfo.io))
 - ✅ Fast Port Scanning with `nmap`
-- ✅ Fully Colorful, Banner-based UI
-- ✅ No Errors – Clean & User Friendly
-
 ---
 
 ## 🚀 Installation
